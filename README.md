@@ -2,7 +2,7 @@
 
 > *🧩 Programming with Mosh - MySQL Tutorial for Beginners [Full Course] (Mar 20, 2019)*
 
-> *Playlist Link: https://www.youtube.com/watch?v=7S_tz1z_5bA*
+> *Link: https://www.youtube.com/watch?v=7S_tz1z_5bA*
 
 > *Description: MySQL tutorial for beginners - Learn MySQL, the world's most popular open source database.*
 
